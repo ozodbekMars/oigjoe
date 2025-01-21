@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    border-radius: 40px;
+    background: #343c56;
+}
+.header{
+    padding-top: 46px ;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.item{
+    width: 200px;
+    border-radius: 30px;
+    background-color: #ff0101;
+    text-align: center;
+    padding: 14px 0px;
+}
+.link{
+    color: #ffffff;
+font-family: "Inter";
+font-size: 12px;
+font-weight: 700;
+line-height: 15px;
+text-decoration: none;
+}
+.hero{
+    padding-top:  68px;
+}
+.wrappper{
+    display: flex;
+    justify-content: space-around;
+}
+.rrl{
+    width: 200px;
+    border-radius: 30px;
+    background-color: #000000c3;
+    text-align: center;
+    margin: 0 auto;
+    padding: 40px 10px;
+}
+.ppp{
+    color: #ffffff;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 15px;
+}
+.hff{
+    width: 266px;
+    margin: 20px auto;
+    padding: 20px 20px;
+    border-radius: 20px;
+    background-color:  chartreuse;
+    padding-top:  31px;
+    border-radius: 5px;
+
+    
+}
+.hff{
+    color: #000000;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.ddd{
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    right: 820px;
+    top: 612px;
+    bottom: 212px;
+    border-radius: 50px;
+    background: #eb1616;
+    padding-top:  20px;
+}
+
+
+
+
+
+
+.hjj{
+    width: 260px;
+    margin: 20px auto;
+    padding: 20px 20px;
+    border-radius: 20px;
+    background-color:  chartreuse;
+    padding-top:  3px;
+    border-radius: 20px;
+}
+.hjj{
+    color: #000000;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.bbn{
+    position: absolute;
+    width: 400px;
+    bottom: -160px;
+    right: 40px;
+    border-radius: 50px;
+    background: #eb1616;
+    margin: 20px auto;
+}
